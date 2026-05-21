@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "CCOBF_IBM"
+version = "2026.5.20"
+
+[tool.setuptools.packages.find]
+where = ["src"]

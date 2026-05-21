@@ -1,0 +1,7 @@
+numpy
+matplotlib
+statsmodels
+pathlib
+pandas
+tqdm
+itertools
