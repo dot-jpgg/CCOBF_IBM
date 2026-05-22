@@ -1,4 +1,4 @@
-# CCOBF IBM: The individual-based model from the *Compounding costs of being female*
+# CCOBF IBM: The individual-based model from the *Compounding costs of being female in academia*
 
 A simple implementation of the IBM described in:
 
