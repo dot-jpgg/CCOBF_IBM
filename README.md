@@ -1,6 +1,6 @@
 # CCOBF IBM: The individual-based model from the *Compounding costs of being female in academia*
 
-A simple implementation of the IBM described in:
+A simple implementation of the individual-based model (IBM) described in:
 
 > Gibson, L., Brower, A., MacDonald, L. & James, A. (2026). *The compounding costs of being female in academia: Individual-based modelling of career progression and interventions*.
 
